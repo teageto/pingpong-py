@@ -1,2 +1,2 @@
-# snakegame
- The snake game made in python
+# pingpong
+ The pingpong old made in python
